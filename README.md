@@ -30,19 +30,19 @@ Excel/CSV → Data preparation
 
 Shows:
 
-Map of India
-Total Registered Agents
-Total Projects
-Disposed Cases
-Pending Cases
+Map of India || 
+Total Registered Agents ||
+Total Projects ||
+Disposed Cases ||
+Pending Cases ||
 <img width="943" height="537" alt="RERA_1" src="https://github.com/user-attachments/assets/c6453708-8a2b-4526-a864-6bd95165df93" />
 
 📌 Page 2
 
 Shows:
-Permanent vs Interim authority
-State-wise portal count
-Detailed insights
+Permanent vs Interim authority ||
+State-wise portal count ||
+Detailed insights ||
 
 <img width="875" height="527" alt="RERA_2" src="https://github.com/user-attachments/assets/76b1694e-d439-4434-867f-c540f5951e49" />
 
